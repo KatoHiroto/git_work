@@ -1,0 +1,21 @@
+h1{
+    font-size: 60px;
+    background-color: yellow;
+    font-family: serif;
+    text-align: center;
+}
+p{
+    font-size: 45px;
+    font-family: MS PMincho;
+}
+body{
+    background-color: lavender;
+}
+a{
+    font-size: 25;
+}
+h3{
+    font-size: 50px;
+    color: black;
+    font-family: serif;
+}
