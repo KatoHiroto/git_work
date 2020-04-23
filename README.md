@@ -1,1 +1,1 @@
-https//KatoHiroto.github.io/git_work
+https://KatoHiroto.github.io/git_work
